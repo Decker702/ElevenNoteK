@@ -1,0 +1,17 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.dll
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.xml
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.Cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddIsStarred.resources

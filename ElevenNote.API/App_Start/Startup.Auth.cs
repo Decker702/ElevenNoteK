@@ -11,6 +11,7 @@ using Owin;
 using ElevenNote.API.Providers;
 using ElevenNote.API.Models;
 using static ElevenNote.Data.ApplicationUser;
+using ElevenNote.Data;
 
 namespace ElevenNote.API
 {
@@ -41,8 +42,12 @@ namespace ElevenNote.API
                 AuthorizeEndpointPath = new PathString("/api/Account/ExternalLogin"),
                 AccessTokenExpireTimeSpan = TimeSpan.FromDays(14),
                 // In production mode set AllowInsecureHttp = false
+#if DEBUG       //the #if DEBUG is a complier entry
                 AllowInsecureHttp = true
-            };
+#else
+                 AllowInsecureHttp = false
+#endif
+                };
 
             // Enable the application to use bearer tokens to authenticate users
             app.UseOAuthBearerTokens(OAuthOptions);

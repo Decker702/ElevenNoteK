@@ -111,3 +111,5 @@ C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\ElevenNote\ElevenNote.
 C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\ElevenNote\ElevenNote.API\bin\ElevenNote.Services.dll.config
 C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\ElevenNote\ElevenNote.API\bin\ElevenNote.Data.pdb
 C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\ElevenNote\ElevenNote.API\bin\ElevenNote.Data.dll.config
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.API\bin\Swashbuckle.Core.dll
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.API\bin\WebActivatorEx.dll

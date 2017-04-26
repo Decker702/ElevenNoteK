@@ -1,0 +1,3 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.MobileApp\ElevenNote.MobileApp.Android\obj\Debug\ElevenNote.MobileApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.MobileApp\ElevenNote.MobileApp.Android\obj\Debug\ElevenNote.MobileApp.Droid.MainPage.xaml.g.cs
+C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.MobileApp\ElevenNote.MobileApp.Android\obj\Debug\ElevenNote.MobileApp.Droid.App.xaml.g.cs

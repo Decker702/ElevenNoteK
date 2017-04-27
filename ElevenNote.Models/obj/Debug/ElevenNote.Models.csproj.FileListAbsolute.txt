@@ -12,3 +12,21 @@ C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb

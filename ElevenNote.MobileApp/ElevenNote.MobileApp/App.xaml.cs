@@ -1,4 +1,4 @@
-﻿using Android.App;
+﻿using ElevenNote.MobileApp.ExternalServices;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,11 +10,14 @@ namespace ElevenNote.MobileApp
 {
 	public partial class App : Application
 	{
+        //for Web Service Access
+        internal static readonly NoteService NoteService = new NoteService();
+
 		public App ()
 		{
 			InitializeComponent();
-
-			MainPage = new ElevenNote.MobileApp.MainPage();
+            //Sets the current page & it will be the main navigation page
+            this.MainPage = new NavigationPage(new LoginPage());
 		}
 
 		protected override void OnStart ()

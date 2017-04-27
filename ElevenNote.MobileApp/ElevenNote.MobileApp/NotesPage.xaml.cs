@@ -35,10 +35,17 @@ namespace ElevenNote.MobileApp
             {
                 await PopulateNotesList();
                 lvwNotes.IsRefreshing = false;
-                lvwNotes.IsVisible = !Notes.Any();
+                lblNoNotes.IsVisible = !Notes.Any();
             };
+
+            //Add "New Note" icon to title bar
+            this.ToolbarItems.Add(new ToolbarItem("Add", null, async () =>
+            {
+                await Navigation.PopAsync(true);
+
+            }));
+
         }
-        #endregion
 
         /// <summary>
         /// Updates the notes list view.
@@ -66,20 +73,22 @@ namespace ElevenNote.MobileApp
 
                     lvwNotes.ItemsSource = Notes;
 
-                    // Clear any item selection.
-                    lvwNotes.SelectedItem = null;
+                        // Clear any item selection.
+                        lvwNotes.SelectedItem = null;
 
                 }, TaskScheduler.FromCurrentSynchronizationContext());
 
         }
+        #endregion
 
+        #region Event Handler
+        //Whenever the view appears, updates the notes list.
 
+        protected override async void OnAppearing()
+        {
+            await PopulateNotesList();
+        }
+        #endregion
 
-
-        /*  public NotesPage ()
-          {
-              InitializeComponent ();
-          }
-          */
     }
 }

@@ -88,6 +88,16 @@ namespace ElevenNote.MobileApp
         {
             await PopulateNotesList();
         }
+        private void LvwNotes_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
+        {
+            //Load the note detail page
+            if (e.SelectedItem != null)
+            {
+                var note = e.SelectedItem as NoteListItemViewModel;
+                Navigation.PushAsync(new NoteDetailPage(note.NoteId));
+            }
+        } 
+
         #endregion
 
     }

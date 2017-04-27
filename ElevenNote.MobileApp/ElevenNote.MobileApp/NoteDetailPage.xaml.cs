@@ -21,6 +21,7 @@ namespace ElevenNote.MobileApp
 		{
 			InitializeComponent ();
             _noteId = noteId;
+            SetupUi();
 		}
         private async void SetupUi()
         {

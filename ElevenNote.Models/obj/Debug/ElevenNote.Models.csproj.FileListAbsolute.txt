@@ -50,3 +50,5 @@ C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug
 C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
 C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
 C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\Moncure306\Documents\NETProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb

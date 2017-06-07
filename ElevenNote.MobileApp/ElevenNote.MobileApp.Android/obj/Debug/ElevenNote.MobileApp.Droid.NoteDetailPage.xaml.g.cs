@@ -11,8 +11,8 @@
 namespace ElevenNote.MobileApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Moncure306\\Documents\\NETProjects\\ElevenNote\\ElevenNote.MobileApp\\ElevenN" +
-        "ote.MobileApp\\NoteDetailPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\NETProjects\\ElevenNote\\ElevenNote.MobileApp\\ElevenNote.MobileApp\\NoteDetailPag" +
+        "e.xaml")]
     public partial class NoteDetailPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

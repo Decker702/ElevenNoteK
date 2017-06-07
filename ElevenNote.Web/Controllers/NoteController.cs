@@ -47,7 +47,7 @@ namespace ElevenNote.Web.Controllers
             var svc = CreateNoteService();
             var detail = svc.GetNoteById(id);
             var model =
-                new NoteEdit
+                new NoteDetail
                 {
                     NoteID = detail.NoteID,
                     Title = detail.Title,

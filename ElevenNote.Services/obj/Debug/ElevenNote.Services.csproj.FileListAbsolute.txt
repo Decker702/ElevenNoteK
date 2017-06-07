@@ -18,3 +18,23 @@ C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\NETProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\NETProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\NETProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\NETProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb

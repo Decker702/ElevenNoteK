@@ -15,3 +15,20 @@ C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.Cache
 C:\Users\Moncure306\documents\visual studio 2017\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddIsStarred.resources
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.dll
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.xml
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\NETProjects\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\NETProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
+C:\NETProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\NETProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddIsStarred.resources
+C:\NETProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.Cache
+C:\NETProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\NETProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
